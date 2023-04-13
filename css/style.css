@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+#card{
+    height: 450px;
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+}
+#card2{
+    height: 700px;
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+}
+#waringtext{
+    font-size: 20px;
+    color: #ff0000;
+}
+#textoinicial{
+    color:#ffffff;
+}
